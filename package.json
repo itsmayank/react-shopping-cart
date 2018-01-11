@@ -114,7 +114,7 @@
     "promise": "7.1.1",
     "react-dev-utils": "^3.0.0",
     "react-error-overlay": "^1.0.7",
-    "react-hot-loader": "next",
+    "react-hot-loader": "^4.0.0-beta.13",
     "redux-persist": "^5.4.0",
     "redux-promise-middleware": "^5.0.0",
     "sass-loader": "^6.0.6",
